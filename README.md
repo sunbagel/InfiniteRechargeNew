@@ -1,2 +1,2 @@
 # InfiniteRechargeNew
-Code for Infinite Rechard bot for FRC.
+Code for Infinite Recharge bot for FRC.
